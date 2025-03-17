@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "67bb27b4c6073fc2ef380626"
+  },
+  "username": "Hoàng Duyệt",
+  "avatar": "user.png",
+  "email": "hoangduyet3006@gmail.com",
+  "phone_number": "08337037373",
+  "address": "Q12,TP.HCM",
+  "role": "admin",
+  "status": "1",
+  "password": "duyet123@"
+},
+{
+  "_id": {
+    "$oid": "67bb27d6c6073fc2ef380628"
+  },
+  "username": "Trần Văn Giới",
+  "avatar": "user.png",
+  "email": "tranvangioi@gmail.com",
+  "phone_number": "08337037373",
+  "address": "Q12,TP.HCM",
+  "role": "admin",
+  "status": "1",
+  "password": "gioi123@"
+},
+{
+  "_id": {
+    "$oid": "67bb27f3c6073fc2ef38062a"
+  },
+  "username": "Phan Phúc Lâm",
+  "avatar": "user.png",
+  "email": "phanphuclam@gmail.com",
+  "phone_number": "08337037373",
+  "address": "Q12,TP.HCM",
+  "role": "admin",
+  "status": "1",
+  "password": "lam123@"
+},
+{
+  "_id": {
+    "$oid": "67bb2817c6073fc2ef38062c"
+  },
+  "username": "Nguyễn Thế Quang",
+  "avatar": "user.png",
+  "email": "nguyenthequang@gmail.com",
+  "phone_number": "08337037373",
+  "address": "Q12,TP.HCM",
+  "role": "user",
+  "status": "1",
+  "password": "quang123@"
+},
+{
+  "_id": {
+    "$oid": "67bb2839c6073fc2ef38062e"
+  },
+  "username": "Lê Thị Nhã Tú",
+  "avatar": "user.png",
+  "email": "lethinhatu@gmail.com",
+  "phone_number": "08337037373",
+  "address": "Q12,TP.HCM",
+  "role": "user",
+  "status": "1",
+  "password": "nhatu@"
+},
+{
+  "_id": {
+    "$oid": "67bc17eafad666245dd9d76b"
+  },
+  "username": "Tos",
+  "email": "hoangduyet.id.vn@gmail.com",
+  "avatar": "user.png",
+  "phone_number": "0833703639",
+  "role": "user",
+  "password": "$2b$10$u1BVHWwJ/Ou7VDhDuiumU.PNOvOGDPdk8lsC3TpbUjcbjRJxCXin2",
+  "status": 1,
+  "__v": 0
+}]

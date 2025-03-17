@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "67bb2a1ac6073fc2ef380632"
+  },
+  "name": "Cây cảnh bồ đề đẹp nhỏ gọn",
+  "price": 490000,
+  "view": 59,
+  "sales": 126,
+  "description": "cây cảnh thích hợp để ngắm, chơi cây cảnh dáng bon sai",
+  "category": {
+    "categoryName": "Cây Cao Cấp",
+    "category_id": {
+      "$oid": "67bb2576c6073fc2ef38061c"
+    }
+  },
+  "img": "AGLA104.jpg",
+  "scientific_name": "adafafa",
+  "discount_price": 9,
+  "date": "23/02/2025",
+  "product_code": "AFQQQ123",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "67bb2b8bc6073fc2ef38063c"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Cao Cấp",
+    "category_id": {
+      "$oid": "67bb2576c6073fc2ef38061c"
+    }
+  },
+  "img": "ANTH010.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2b93c6073fc2ef38063e"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Cao Cấp",
+    "category_id": {
+      "$oid": "67bb2576c6073fc2ef38061c"
+    }
+  },
+  "img": "CPTK001.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2b99c6073fc2ef380640"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Cao Cấp",
+    "category_id": {
+      "$oid": "67bb2576c6073fc2ef38061c"
+    }
+  },
+  "img": "CTBC007.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2b9fc6073fc2ef380642"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Phong Thủy",
+    "category_id": {
+      "$oid": "67bb257fc6073fc2ef38061e"
+    }
+  },
+  "img": "DRCO004.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2ba4c6073fc2ef380644"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Phong Thủy",
+    "category_id": {
+      "$oid": "67bb257fc6073fc2ef38061e"
+    }
+  },
+  "img": "LONI039_1.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2baac6073fc2ef380646"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Phong Thủy",
+    "category_id": {
+      "$oid": "67bb257fc6073fc2ef38061e"
+    }
+  },
+  "img": "LONI040.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2bb0c6073fc2ef380648"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Phong Thủy",
+    "category_id": {
+      "$oid": "67bb257fc6073fc2ef38061e"
+    }
+  },
+  "img": "MONS010.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2bb6c6073fc2ef38064a"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Để Bàn",
+    "category_id": {
+      "$oid": "67bb2585c6073fc2ef380620"
+    }
+  },
+  "img": "MONS020.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2bbbc6073fc2ef38064c"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Để Bàn",
+    "category_id": {
+      "$oid": "67bb2585c6073fc2ef380620"
+    }
+  },
+  "img": "PHIR008.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2bcac6073fc2ef38064e"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Để Bàn",
+    "category_id": {
+      "$oid": "67bb2585c6073fc2ef380620"
+    }
+  },
+  "img": "RADE033.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2bd1c6073fc2ef380650"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Để Bàn",
+    "category_id": {
+      "$oid": "67bb2585c6073fc2ef380620"
+    }
+  },
+  "img": "TBTX010.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2bd6c6073fc2ef380652"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Văn Phòng",
+    "category_id": {
+      "$oid": "67bb258dc6073fc2ef380622"
+    }
+  },
+  "img": "TUBO005.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bb2bdcc6073fc2ef380654"
+  },
+  "name": "Cây cảnh số 2",
+  "price": 150000,
+  "view": 75,
+  "sales": 210,
+  "description": "Cây cảnh phong thủy phù hợp trang trí",
+  "category": {
+    "categoryName": "Cây Dễ Chăm",
+    "category_id": {
+      "$oid": "67bb24d8c6073fc2ef38061a"
+    }
+  },
+  "img": "TUBO005_1.jpg",
+  "scientific_name": "Scientific_2",
+  "discount_price": 20,
+  "date": "23/02/2025",
+  "product_code": "PROD_2"
+},
+{
+  "_id": {
+    "$oid": "67bdc3a09faa06b3876e780e"
+  },
+  "name": "sp33"
+}]

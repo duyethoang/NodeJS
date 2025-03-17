@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67bb24d8c6073fc2ef38061a"
+  },
+  "name": "Cây Dễ Chăm",
+  "img": "caydecham.png",
+  "description": "cây dễ chăm",
+  "link": "caydecham.html",
+  "updatedAt": {
+    "$date": "2025-02-25T05:47:37.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bb2576c6073fc2ef38061c"
+  },
+  "name": "Cây Cao Cấp",
+  "img": "caycaocap.jpg",
+  "description": "cây phong thủy",
+  "link": "cayphongthuy.html"
+},
+{
+  "_id": {
+    "$oid": "67bb257fc6073fc2ef38061e"
+  },
+  "name": "Cây Phong Thủy",
+  "img": "cayphongthuy.jpg",
+  "description": "cây phong thủy",
+  "link": "cayphongthuy.html"
+},
+{
+  "_id": {
+    "$oid": "67bb2585c6073fc2ef380620"
+  },
+  "name": "Cây Để Bàn",
+  "img": "caydeban.jpg",
+  "description": "cây phong thủy",
+  "link": "cayphongthuy.html"
+},
+{
+  "_id": {
+    "$oid": "67bb258dc6073fc2ef380622"
+  },
+  "name": "Cây Văn Phòng",
+  "img": "cayvanphong.jpg",
+  "description": "cây phong thủy",
+  "link": "cayphongthuy.html"
+}]
