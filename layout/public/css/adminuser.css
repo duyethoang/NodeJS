@@ -1,0 +1,176 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eef2f7;
+}
+.container {
+    max-width: 1400px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.navbar {
+    color: green;
+    padding: 5px 0;
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center ;
+}
+.navbar .logo {
+    font-size: 1em;
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 40px;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 25px;
+    position: relative;
+}
+.navbar ul li a:hover{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    overflow: hidden;
+}
+.navbar ul li a {
+    color: green;
+    font-weight: 700;
+    text-decoration: none;
+    margin: 100px 50px;
+    font-size: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333;
+}
+table, th, td {
+    border: 1px solid #ccc;
+}
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+th {
+    background-color: brown;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+.actions button {
+    margin-right: 5px;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.actions .edit {
+    background-color: #28a745;
+    color: white;
+}
+.actions .delete {
+    background-color: #dc3545;
+    color: white;
+}
+.add-button {
+    display: inline-block;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.add-button:hover {
+    background-color: #0056b3;
+}
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    width: 400px;
+    max-width: 90%;
+    z-index: 12;
+}
+.popup-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(3px);
+    z-index: 10;
+}
+.popup-content {
+    position: relative;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#userForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#userForm label {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#userForm input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#userForm button {
+    margin-top: 15px;
+    padding: 10px;
+    background: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#userForm button:hover {
+    background: #218838;
+}
