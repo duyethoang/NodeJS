@@ -1,0 +1,18 @@
+{
+    "category": [
+    {"id": 1,"name": "Máy Tập Thể Dục"},
+    {"id": 2,"name": "Dụng Cụ Tập Gym"},
+    {"id": 3,"name": "Dụng Cụ Võ Thuật"},
+    {"id": 4,"name": "Dụng Cụ Bóng Bàn"},
+    {"id": 5,"name": "Dụng Cụ Bóng Rổ"},
+    {"id": 6,"name": "Thiết Bị Dạy Học"},
+    {"id": 6,"name": "Dụng Cụ Ngoài Trời"},
+    {"id": 7,"name": "Khác"}
+],
+    "equipment":[
+    {"id":1,"name":"thiết bị chạy bộ ad2","price":250000,"img":"./public/img/maychaybo.jpg","discount":15},
+    {"id":2,"name":"thiết bị chạy bộ ad2","price":250000,"img":"./public/img/maychaybo.jpg","discount":15},
+    {"id":3,"name":"thiết bị chạy bộ ad2","price":250000,"img":"./public/img/maychaybo.jpg","discount":15},
+    {"id":4,"name":"thiết bị chạy bộ ad2","price":250000,"img":"./public/img/maychaybo.jpg","discount":15}
+    ]
+}

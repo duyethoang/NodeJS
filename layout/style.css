@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container, .categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.categories{
+    background-color: black;
+}
+.categories div {
+    padding: 10px 20px;
+    border: 1px solid;
+    cursor: pointer;
+    transition: 0.3s;
+    color: white;
+}
+.categories div:hover {
+    background-color: red;
+}
+.container div {
+    padding: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.container img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
